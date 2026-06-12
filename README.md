@@ -1,6 +1,6 @@
 # NexBank · UNION & UNION ALL Exercise
 **BrightLearn · AI & Data Skills**
-
+SQL Environment used : SQLOnline.com
 ---
 
 ## What This Exercise Is About
